@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Results-{{name}}</title>
+	
+	
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.5.0/css/all.css' integrity='sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU' crossorigin='anonymous'>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	
+</head>
+<body>
+<div class="container">
+<a href="http://localhost:5000/home">
+<i class='fas fa-home'style='font-size:30px'></i>
+<img class="img-fluid" src="/static/icon2.png" alt="Deep Ocean" width="150" height="50">
+</a>
+
+<h1 style="font-size:18px;" style="font-style:italic">Results for {{name}}</h1>
+
+<body style="font-size:10px;">
+	{% if not rest %}
+	<h2>Sorry !!!NOT Found........ Try something else</h2>
+	<img src="/static/tenor.gif" alt="Sorry">
+	
+	{% else %}
+	
+	{% for i in rest %}
+	
+	<a href="{{i[0]}}">
+    <h3> {{i[0]}}</h3>
+	
+	</a>
+	<h6>**********************************************************************************************************************************</h6>	
+	{% endfor %}
+	{% endif %}
+
+
+</div>
+</html>

@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block title %}Page Searching{% endblock %}
+{% block content %}
+<div class="card mt-3">
+  <div class="card-body">
+    <h5 class="card-title">Search</h5>
+        <div class="d-flex pb-3">
+
+            <input type="text" class="form-control" placeholder="Search" id="search_query">
+
+          
+        </div>
+        
+      <div class="d-flex">
+        <button type="submit" id="search_button" class="btn btn-primary mr-2 flex-fill">Search
+          <span class="spinner-border spinner-border-sm" id = "searching_progress"  style="display: none; margin:auto;"></span>
+        </button>
+        <button class="btn btn-primary ml-2 flex-fill" disabled = true type="button" data-toggle="collapse" data-target="#display_searching_result" aria-expanded="false" aria-controls="display_rank" id="show_result">
+          Show Result
+        </button>
+        <p id="error" class="text-danger"></p>
+      </div>
+
+      <div class="output_searching pt-3 pb-3">
+        <span id="searching_complete" class = "text-success" style="display: none;">searching is Completed</span>
+        <span id="searching_failed"  class = "text-danger" style="display: none;">searching Process Failed</span>
+      </div>
+
+      
+    
+  </div>
+</div>
+<div class="collapse py-4" id="display_searching_result" style = "
+        overflow-y: auto;
+        max-height: 650px;
+    ">
+        <div class="card card-body table-responsive-sm" id="display">
+          
+ 
+      </div>
+
+
+
+<script src="{{url_for('static', filename='js/searcher.js')}}"></script>
+<script src="{{url_for('static', filename='js/display_searched_result.js')}}"></script>
+
+{% endblock %}

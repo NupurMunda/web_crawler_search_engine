@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block title %}Page Ranking{% endblock %}
+{% block content %}
+<div class="card mt-3">
+  <div class="card-body">
+    <h5 class="card-title">Ranking</h5>
+      
+      <div class="d-flex">
+        <button type="submit" id="ranking_button" class="btn btn-primary mr-2 flex-fill">Start Ranking
+          <span class="spinner-border spinner-border-sm" id = "ranking_progress"  style="display: none; margin:auto;"></span>
+        </button>
+        <button class="btn btn-primary ml-2 flex-fill" disabled = true type="button" data-toggle="collapse" data-target="#display_ranking_result" aria-expanded="false" aria-controls="display_rank" id="display_rank">
+          Show Result
+        </button>
+      </div>
+
+      <div class="output_ranking pt-3 pb-3">
+        <span id="ranking_complete" class = "text-success" style="display: none;">Ranking is Completed</span>
+        <span id="ranking_failed"  class = "text-danger" style="display: none;">Ranking Process Failed</span>
+      </div>
+
+      <div class="collapse" id="display_ranking_result" style = "
+        overflow-y: auto;
+        max-height: 650px;
+    ">
+        <div class="card card-body table-responsive-sm" id="display">
+          <table id="display_table" class="table table-hover  table-striped .table-borderless">
+            <thead  style="position: sticky;top: 0" class="thead-dark">
+              <tr style="position: sticky;top: 0; z-index: 10000;"class="d-flex" >
+                <th scope="col"style="position: sticky;top: 0" class="col-md-1">Rank</th>
+                <th scope="col" style="position: sticky;top: 0" class="col-md-9" >Web Page Name</th>
+                <th scope="col" style="position: sticky;top: 0" class="col-md-1" ># to</th>
+                <th scope="col" style="position: sticky;top: 0"class="col-md-1" ># from</th>
+              </tr>
+            </thead>
+            <tbody>
+            </tbody>
+          </table>
+          
+          
+        </div>
+      </div>
+    
+  </div>
+</div>
+
+
+
+
+<script src="{{url_for('static', filename='js/ranker.js')}}"></script>
+<script src="{{url_for('static', filename='js/display_ranking_result.js')}}"></script>
+
+{% endblock %}

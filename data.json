@@ -1,0 +1,1353 @@
+{
+    "nodes": [
+        {
+            "name": "https://www.geeksforgeeks.org/string-find-in-cpp/#:~:text=String%20find%20is%20used%20to,of%20starting%20position%20is%200."
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/analysis-of-algorithms-set-2-asymptotic-analysis/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/analysis-of-algorithms-set-3asymptotic-notations/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/analysis-of-algorithems-little-o-and-little-omega-notations/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/lower-and-upper-bound-theory/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/analysis-of-algorithms-set-4-analysis-of-loops/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/analysis-algorithm-set-4-master-method-solving-recurrences/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/analysis-algorithm-set-5-amortized-analysis-introduction/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/g-fact-86/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/pseudo-polynomial-in-algorithms/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/polynomial-time-approximation-scheme/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/a-time-complexity-question/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/searching-algorithms/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/sorting-algorithms/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/geometric-algorithms/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/mathematical-algorithms/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/randomized-algorithms/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/greedy-algorithms/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/dynamic-programming/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/divide-and-conquer/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/backtracking-algorithms/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/branch-and-bound-algorithm/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/fundamentals-of-algorithms/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/array-data-structure/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/data-structures/linked-list/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/stack-data-structure/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/queue-data-structure/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/binary-tree-data-structure/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/binary-search-tree-data-structure/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/heap-data-structure/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/hashing-data-structure/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/advanced-data-structures/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/matrix/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/string-data-structure/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/data-structures/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/c-programming-language/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/c-plus-plus/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/java/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/python-programming-language/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/csharp-programming-language/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/javascript-tutorial/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/jquery-tutorials/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/sql-tutorial/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/php/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/scala-programming-language/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/perl-programming-language/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/golang/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/html-tutorials/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/css-tutorials/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/kotlin-programming-language/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/company-preparation/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/interview-preparation-for-software-developer/"
+        },
+        {
+            "name": "https://practice.geeksforgeeks.org/company-tags"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/company-interview-corner/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/experienced-interview-experiences-company-wise/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/internship-interview-experiences-company-wise/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/category/competitive-programming/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/software-design-patterns/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/quiz-corner-gq/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/gate-cs-notes-gq/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/lmns-gq/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/gate-corner-2-gq/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/original-gate-previous-year-question-papers-cse-and-it-gq/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/gate-cs-2021-official-important-dates/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/gate-cs-2021-revised-syllabus/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/important-topics-prepare-gate-2020-computer-science-paper/"
+        },
+        {
+            "name": "https://practice.geeksforgeeks.org/courses/Sudo-GATE-2021"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/isro-cs-preparation/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/isro-original-papers-official-keys/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/isro-cse-syllabus-scientistengineer-exam-2018/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/ugc-net-cs-notes-according-to-syllabus-of-paper-ii/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/ugc-net-cs-notes-according-to-syllabus-of-paper-iii-core-group/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/ugc-net-cs-preparation/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/engineering-mathematics-tutorials/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/operating-systems/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/dbms/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/computer-network-tutorials/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/computer-organization-and-architecture-tutorials/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/theory-of-computation-automata-tutorials/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/compiler-design-tutorials/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/digital-electronics-logic-design-tutorials/#blg"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/software-engineering/"
+        },
+        {
+            "name": "https://practice.geeksforgeeks.org/jobs/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/computer-science-projects/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/geek-of-the-month/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/campus-geek-of-the-month/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/placements-gq/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/testimonials/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/category/geek-on-the-top/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/careers/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/internship/"
+        },
+        {
+            "name": "https://practice.geeksforgeeks.org"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/category/guestblogs/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/puzzles/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/geeks-classes-geeksforgeeks/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/substring-in-cpp/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/string-find-in-cpp/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/std-find-in-cpp/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/stdsearch-in-c/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/stdsearch_n-with-example-in-cpp/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/algorithms-library-c-stl/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/c-magicians-stl-algorithms/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/compute-parity-number-using-xor-table-look/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/program-to-find-parity/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/finding-the-parity-of-a-number-efficiently/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/set-in-cpp-stl/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/unordered_map-in-cpp-stl/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/unordered_set-in-cpp-stl/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/the-c-standard-template-library-stl/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/vector-in-cpp-stl/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/vector-erase-and-clear-in-cpp/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/difference-between-stdremove-and-vectorerase-for-vectors/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/stdremove-stdremove_if-c/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/stdstringerase-in-cpp/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/stdstringinsert-in-c/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/stdstringappend-in-c/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/stdstringappend-vs-stdstringpush_back-vs-operator-c/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/comparing-two-strings-cpp/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/stdstringcompare-in-c/?ref=lbp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/program-to-calculate-electricity-bill/?ref=leftbar-rightbar"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/which-c-libraries-are-useful-for-competitive-programming/?ref=leftbar-rightbar"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/how-to-find-index-of-a-given-element-in-a-vector-in-cpp/?ref=leftbar-rightbar"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/pi-in-c-with-examples/?ref=leftbar-rightbar"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/how-to-iterate-through-a-vector-without-using-iterators-in-c/?ref=leftbar-rightbar"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/stdstring-class-in-c/"
+        },
+        {
+            "name": "https://practice.geeksforgeeks.org/courses/dsa-self-paced?utm_source=geeksforgeeks&utm_medium=article&utm_campaign=gfg_article_dsa_content_bottom"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/stdstringreplace-stdstringreplace_if-c/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/stdstringreplace_copy-stdstringreplace_copy_if-cpp/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/stdstringappend-vs-stdstringpush_back-vs-operator-c/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/std-string-remove_copy-std-string-remove_copy_if-c/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/check-if-a-string-can-be-formed-from-another-string-using-given-constraints/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/how-to-count-string-occurrence-in-string-using-javascript/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/what-is-the-difference-between-string-and-string-in-typescript/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/how-to-check-a-string-starts-ends-with-a-specific-string-in-jquery/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/periodic-binary-string-with-minimum-period-and-a-given-binary-string-as-subsequence/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/stdstringcrbegin-and-stdstringcrend-in-c-with-examples/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/check-if-given-string-is-a-substring-of-string-formed-by-repeated-concatenation-of-z-to-a/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/5-different-methods-find-length-string-c/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/find-print-duplicate-words-stdvectorstring-using-stl-functions/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/find-indices-of-all-occurrence-of-one-string-in-other/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/how-to-find-the-length-of-channel-pointer-slice-string-and-map-in-golang/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/convert-floating-point-number-string/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/how-to-split-a-string-in-cc-python-and-java/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/c-string-class-and-its-applications/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/reverse-a-string-in-c-cpp-different-methods/?ref=rp"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/c-string-class-applications-set-2/?ref=rp"
+        },
+        {
+            "name": "https://auth.geeksforgeeks.org/user/SarthakKhandelwal/articles"
+        },
+        {
+            "name": "https://contribute.geeksforgeeks.org/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/category/programming-language/cpp/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/tag/cpp-string/"
+        },
+        {
+            "name": "https://practice.geeksforgeeks.org/topics/CPP"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/array-at-function-in-c-stl/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/convert-c-c-program-to-preprocessor-code/"
+        },
+        {
+            "name": "https://ide.geeksforgeeks.org/"
+        },
+        {
+            "name": "https://practice.geeksforgeeks.org/courses/complete-interview-preparation?utm_source=geeksforgeeks&utm_medium=banner&utm_campaign=gfg_rt_CIP"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/how-to-initialize-array-of-objects-with-parameterized-constructors-in-c/?ref=leftbar-rightbar"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/difference-between-static-and-dynamic-memory-allocation-in-c/?ref=leftbar-rightbar"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/array-of-structures-vs-array-within-a-structure-in-c-and-cpp/?ref=leftbar-rightbar"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/slicing-a-vector-in-c/?ref=leftbar-rightbar"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/rust-vs-c-will-rust-replace-c-in-future/?ref=leftbar-rightbar"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/similarities-and-difference-between-java-and-c/?ref=leftbar-rightbar"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/header-files-in-c-c-with-examples/?ref=leftbar-rightbar"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/how-to-call-function-within-function-in-c-or-c/?ref=leftbar-rightbar"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/learn-cpp-programming-step-by-step-a-20-day-curriculum/?ref=leftbar-rightbar"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/difference-between-python-and-c/?ref=leftbar-rightbar"
+        },
+        {
+            "name": "https://auth.geeksforgeeks.org/testimonial/?ref=gfg"
+        },
+        {
+            "name": "mailto:feedback@geeksforgeeks.org"
+        },
+        {
+            "name": "https://www.facebook.com/geeksforgeeks.org/"
+        },
+        {
+            "name": "https://www.instagram.com/geeks_for_geeks/"
+        },
+        {
+            "name": "https://in.linkedin.com/company/geeksforgeeks"
+        },
+        {
+            "name": "https://twitter.com/geeksforgeeks"
+        },
+        {
+            "name": "https://www.youtube.com/geeksforgeeksvideos"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/about/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/privacy-policy/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/about/contact-us/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/category/program-output/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/articles-on-computer-science-subjects-gq/"
+        },
+        {
+            "name": "https://www.youtube.com/geeksforgeeksvideos/"
+        },
+        {
+            "name": "https://practice.geeksforgeeks.org/courses/"
+        },
+        {
+            "name": "https://practice.geeksforgeeks.org/company-tags/"
+        },
+        {
+            "name": "https://practice.geeksforgeeks.org/topic-tags/"
+        },
+        {
+            "name": "https://practice.geeksforgeeks.org/faq.php"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/contribute/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/write-interview-experience/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/how-to-contribute-videos-to-geeksforgeeks/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/copyright-information/"
+        },
+        {
+            "name": "https://www.geeksforgeeks.org/cookie-policy/"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 0,
+            "target": 3
+        },
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 0,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 0,
+            "target": 8
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 0,
+            "target": 11
+        },
+        {
+            "source": 0,
+            "target": 12
+        },
+        {
+            "source": 0,
+            "target": 13
+        },
+        {
+            "source": 0,
+            "target": 14
+        },
+        {
+            "source": 0,
+            "target": 15
+        },
+        {
+            "source": 0,
+            "target": 16
+        },
+        {
+            "source": 0,
+            "target": 17
+        },
+        {
+            "source": 0,
+            "target": 18
+        },
+        {
+            "source": 0,
+            "target": 19
+        },
+        {
+            "source": 0,
+            "target": 20
+        },
+        {
+            "source": 0,
+            "target": 21
+        },
+        {
+            "source": 0,
+            "target": 22
+        },
+        {
+            "source": 0,
+            "target": 23
+        },
+        {
+            "source": 0,
+            "target": 24
+        },
+        {
+            "source": 0,
+            "target": 25
+        },
+        {
+            "source": 0,
+            "target": 26
+        },
+        {
+            "source": 0,
+            "target": 27
+        },
+        {
+            "source": 0,
+            "target": 28
+        },
+        {
+            "source": 0,
+            "target": 29
+        },
+        {
+            "source": 0,
+            "target": 30
+        },
+        {
+            "source": 0,
+            "target": 31
+        },
+        {
+            "source": 0,
+            "target": 32
+        },
+        {
+            "source": 0,
+            "target": 33
+        },
+        {
+            "source": 0,
+            "target": 34
+        },
+        {
+            "source": 0,
+            "target": 35
+        },
+        {
+            "source": 0,
+            "target": 36
+        },
+        {
+            "source": 0,
+            "target": 37
+        },
+        {
+            "source": 0,
+            "target": 38
+        },
+        {
+            "source": 0,
+            "target": 39
+        },
+        {
+            "source": 0,
+            "target": 40
+        },
+        {
+            "source": 0,
+            "target": 41
+        },
+        {
+            "source": 0,
+            "target": 42
+        },
+        {
+            "source": 0,
+            "target": 43
+        },
+        {
+            "source": 0,
+            "target": 44
+        },
+        {
+            "source": 0,
+            "target": 45
+        },
+        {
+            "source": 0,
+            "target": 46
+        },
+        {
+            "source": 0,
+            "target": 47
+        },
+        {
+            "source": 0,
+            "target": 48
+        },
+        {
+            "source": 0,
+            "target": 49
+        },
+        {
+            "source": 0,
+            "target": 50
+        },
+        {
+            "source": 0,
+            "target": 51
+        },
+        {
+            "source": 0,
+            "target": 52
+        },
+        {
+            "source": 0,
+            "target": 53
+        },
+        {
+            "source": 0,
+            "target": 54
+        },
+        {
+            "source": 0,
+            "target": 55
+        },
+        {
+            "source": 0,
+            "target": 56
+        },
+        {
+            "source": 0,
+            "target": 57
+        },
+        {
+            "source": 0,
+            "target": 58
+        },
+        {
+            "source": 0,
+            "target": 59
+        },
+        {
+            "source": 0,
+            "target": 60
+        },
+        {
+            "source": 0,
+            "target": 61
+        },
+        {
+            "source": 0,
+            "target": 62
+        },
+        {
+            "source": 0,
+            "target": 63
+        },
+        {
+            "source": 0,
+            "target": 64
+        },
+        {
+            "source": 0,
+            "target": 65
+        },
+        {
+            "source": 0,
+            "target": 66
+        },
+        {
+            "source": 0,
+            "target": 67
+        },
+        {
+            "source": 0,
+            "target": 68
+        },
+        {
+            "source": 0,
+            "target": 69
+        },
+        {
+            "source": 0,
+            "target": 70
+        },
+        {
+            "source": 0,
+            "target": 71
+        },
+        {
+            "source": 0,
+            "target": 72
+        },
+        {
+            "source": 0,
+            "target": 73
+        },
+        {
+            "source": 0,
+            "target": 74
+        },
+        {
+            "source": 0,
+            "target": 75
+        },
+        {
+            "source": 0,
+            "target": 76
+        },
+        {
+            "source": 0,
+            "target": 77
+        },
+        {
+            "source": 0,
+            "target": 78
+        },
+        {
+            "source": 0,
+            "target": 79
+        },
+        {
+            "source": 0,
+            "target": 80
+        },
+        {
+            "source": 0,
+            "target": 81
+        },
+        {
+            "source": 0,
+            "target": 82
+        },
+        {
+            "source": 0,
+            "target": 83
+        },
+        {
+            "source": 0,
+            "target": 84
+        },
+        {
+            "source": 0,
+            "target": 85
+        },
+        {
+            "source": 0,
+            "target": 86
+        },
+        {
+            "source": 0,
+            "target": 87
+        },
+        {
+            "source": 0,
+            "target": 88
+        },
+        {
+            "source": 0,
+            "target": 89
+        },
+        {
+            "source": 0,
+            "target": 90
+        },
+        {
+            "source": 0,
+            "target": 91
+        },
+        {
+            "source": 0,
+            "target": 92
+        },
+        {
+            "source": 0,
+            "target": 93
+        },
+        {
+            "source": 0,
+            "target": 94
+        },
+        {
+            "source": 0,
+            "target": 95
+        },
+        {
+            "source": 0,
+            "target": 96
+        },
+        {
+            "source": 0,
+            "target": 97
+        },
+        {
+            "source": 0,
+            "target": 98
+        },
+        {
+            "source": 0,
+            "target": 99
+        },
+        {
+            "source": 0,
+            "target": 100
+        },
+        {
+            "source": 0,
+            "target": 101
+        },
+        {
+            "source": 0,
+            "target": 102
+        },
+        {
+            "source": 0,
+            "target": 103
+        },
+        {
+            "source": 0,
+            "target": 104
+        },
+        {
+            "source": 0,
+            "target": 105
+        },
+        {
+            "source": 0,
+            "target": 106
+        },
+        {
+            "source": 0,
+            "target": 107
+        },
+        {
+            "source": 0,
+            "target": 108
+        },
+        {
+            "source": 0,
+            "target": 109
+        },
+        {
+            "source": 0,
+            "target": 110
+        },
+        {
+            "source": 0,
+            "target": 111
+        },
+        {
+            "source": 0,
+            "target": 112
+        },
+        {
+            "source": 0,
+            "target": 113
+        },
+        {
+            "source": 0,
+            "target": 114
+        },
+        {
+            "source": 0,
+            "target": 115
+        },
+        {
+            "source": 0,
+            "target": 116
+        },
+        {
+            "source": 0,
+            "target": 117
+        },
+        {
+            "source": 0,
+            "target": 118
+        },
+        {
+            "source": 0,
+            "target": 119
+        },
+        {
+            "source": 0,
+            "target": 120
+        },
+        {
+            "source": 0,
+            "target": 121
+        },
+        {
+            "source": 0,
+            "target": 122
+        },
+        {
+            "source": 0,
+            "target": 123
+        },
+        {
+            "source": 0,
+            "target": 124
+        },
+        {
+            "source": 0,
+            "target": 125
+        },
+        {
+            "source": 0,
+            "target": 126
+        },
+        {
+            "source": 0,
+            "target": 127
+        },
+        {
+            "source": 0,
+            "target": 128
+        },
+        {
+            "source": 0,
+            "target": 129
+        },
+        {
+            "source": 0,
+            "target": 130
+        },
+        {
+            "source": 0,
+            "target": 131
+        },
+        {
+            "source": 0,
+            "target": 132
+        },
+        {
+            "source": 0,
+            "target": 133
+        },
+        {
+            "source": 0,
+            "target": 134
+        },
+        {
+            "source": 0,
+            "target": 135
+        },
+        {
+            "source": 0,
+            "target": 136
+        },
+        {
+            "source": 0,
+            "target": 137
+        },
+        {
+            "source": 0,
+            "target": 138
+        },
+        {
+            "source": 0,
+            "target": 139
+        },
+        {
+            "source": 0,
+            "target": 140
+        },
+        {
+            "source": 0,
+            "target": 141
+        },
+        {
+            "source": 0,
+            "target": 142
+        },
+        {
+            "source": 0,
+            "target": 143
+        },
+        {
+            "source": 0,
+            "target": 144
+        },
+        {
+            "source": 0,
+            "target": 145
+        },
+        {
+            "source": 0,
+            "target": 146
+        },
+        {
+            "source": 0,
+            "target": 147
+        },
+        {
+            "source": 0,
+            "target": 148
+        },
+        {
+            "source": 0,
+            "target": 149
+        },
+        {
+            "source": 0,
+            "target": 150
+        },
+        {
+            "source": 0,
+            "target": 151
+        },
+        {
+            "source": 0,
+            "target": 152
+        },
+        {
+            "source": 0,
+            "target": 153
+        },
+        {
+            "source": 0,
+            "target": 154
+        },
+        {
+            "source": 0,
+            "target": 155
+        },
+        {
+            "source": 0,
+            "target": 156
+        },
+        {
+            "source": 0,
+            "target": 157
+        },
+        {
+            "source": 0,
+            "target": 158
+        },
+        {
+            "source": 0,
+            "target": 159
+        },
+        {
+            "source": 0,
+            "target": 160
+        },
+        {
+            "source": 0,
+            "target": 161
+        },
+        {
+            "source": 0,
+            "target": 162
+        },
+        {
+            "source": 0,
+            "target": 163
+        },
+        {
+            "source": 0,
+            "target": 164
+        },
+        {
+            "source": 0,
+            "target": 165
+        },
+        {
+            "source": 0,
+            "target": 166
+        },
+        {
+            "source": 0,
+            "target": 167
+        },
+        {
+            "source": 0,
+            "target": 168
+        },
+        {
+            "source": 0,
+            "target": 169
+        },
+        {
+            "source": 0,
+            "target": 170
+        },
+        {
+            "source": 0,
+            "target": 171
+        },
+        {
+            "source": 0,
+            "target": 172
+        },
+        {
+            "source": 0,
+            "target": 173
+        },
+        {
+            "source": 0,
+            "target": 174
+        },
+        {
+            "source": 0,
+            "target": 175
+        },
+        {
+            "source": 0,
+            "target": 176
+        },
+        {
+            "source": 0,
+            "target": 177
+        },
+        {
+            "source": 0,
+            "target": 178
+        },
+        {
+            "source": 0,
+            "target": 179
+        },
+        {
+            "source": 0,
+            "target": 180
+        },
+        {
+            "source": 0,
+            "target": 181
+        },
+        {
+            "source": 0,
+            "target": 182
+        },
+        {
+            "source": 0,
+            "target": 183
+        },
+        {
+            "source": 0,
+            "target": 184
+        },
+        {
+            "source": 0,
+            "target": 185
+        },
+        {
+            "source": 0,
+            "target": 186
+        },
+        {
+            "source": 0,
+            "target": 187
+        },
+        {
+            "source": 0,
+            "target": 188
+        },
+        {
+            "source": 0,
+            "target": 189
+        },
+        {
+            "source": 0,
+            "target": 190
+        },
+        {
+            "source": 0,
+            "target": 191
+        },
+        {
+            "source": 0,
+            "target": 192
+        }
+    ]
+}

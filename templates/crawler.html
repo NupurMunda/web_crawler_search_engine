@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% block title %}Crawler{% endblock %}
+{% block content %}
+
+<!-- <div class="w-100 h-100 fixed-top" style="background-color:  rgba(0, 0, 0, 0.4);" id = "crawler_instruction_container">
+  <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+  <div class="w-100 pb-5 fixed-bottom d-flex justify-content-center">
+    <p class=" text-white text-break w-50 text-xl" id="crawler_instruction_step"> 
+      vghucccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccchgvghujuh
+    </p>
+</div>
+</div> -->
+
+
+<div class="card mt-3">
+  <div class="card-body">
+    <h5 class="card-title">Crawling</h5>
+    <form>
+      <div class="form-group">
+        <label for="seed_url">Seed URL</label>
+        <input type="text" class="form-control" id="seed_url" placeholder="www.abc.com">
+        <p id="error" class="text-danger"></p>
+
+      </div>
+      <div class="form-group">
+        <form>
+          <label for="customRange">Page Limit</label>
+          <input type="range" class="custom-range" id="customRange" min="1" max="5">
+        </form>
+        <div >Current Value: <b id="page_limit"></b></div>
+      </div>
+      <div class="d-flex">
+        <button type="submit" id="scrapping_button" class="btn btn-primary mr-2 flex-fill">Start Crawling
+          <span class="spinner-border spinner-border-sm" id = "scrapping_progress"  style="display: none;margin:auto;"></span>
+        </button>
+        <button class="btn btn-primary ml-2 flex-fill" disabled = true type="button" data-toggle="collapse" data-target="#display_graph" aria-expanded="false" aria-controls="display_graph" id="show_result">
+          <p>Show the Result</p> 
+          <span class="spinner-border spinner-border-sm" id = "scrapping_graph_progress"  style="display: none;margin:auto;"></span>
+        </button>
+      </div>
+      
+      <div class="output_scrapping pt-3 pb-3">
+        <span id="scrapping_complete" class = "text-success"  style="display: none;">Crawling is Completed</span>
+        <span id="scrapping_failed" class = "text-danger" style="display: none;">Crawling Process Failed</span>
+        
+      </div>
+    </form>
+    <div class="collapse" id="display_graph">
+      <div class="card card-body" id="display_linking">
+        <script src="https://d3js.org/d3.v3.min.js"></script>
+        <script src="{{url_for('static', filename='js/display_final_result.js')}}"></script>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<script src="{{url_for('static', filename='js/scrapper.js')}}"></script>
+
+{% endblock %}
