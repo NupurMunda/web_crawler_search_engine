@@ -9,6 +9,7 @@ colorama==0.4.3
 decorator==4.4.2
 Flask==1.1.1
 Flask-Cors==3.0.8
+gunicorn==20.0.4
 idna==2.8
 isort==5.5.0
 itsdangerous==1.1.0
