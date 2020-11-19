@@ -4,12 +4,11 @@
 <div class="card mt-3">
   <div class="card-body">
     <h5 class="card-title">Search</h5>
-        <div class="d-flex pb-3">
+    <div class="d-flex pb-3  flex-column">
 
-            <input type="text" class="form-control" placeholder="Search" id="search_query">
-
-          
-        </div>
+      <input type="text" class="form-control" placeholder="Search" id="search_query">
+      <p id="error" class="text-danger" style="display: block;"></p>
+    </div>
         
       <div class="d-flex">
         <button type="submit" id="search_button" class="btn btn-primary mr-2 flex-fill">Search
@@ -18,7 +17,7 @@
         <button class="btn btn-primary ml-2 flex-fill" disabled = true type="button" data-toggle="collapse" data-target="#display_searching_result" aria-expanded="false" aria-controls="display_rank" id="show_result">
           Show Result
         </button>
-        <p id="error" class="text-danger"></p>
+        
       </div>
 
       <div class="output_searching pt-3 pb-3">

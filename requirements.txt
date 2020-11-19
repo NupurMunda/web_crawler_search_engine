@@ -10,16 +10,11 @@ decorator==4.4.2
 Flask==1.1.1
 Flask-Cors==3.0.8
 idna==2.8
-ipykernel==5.3.4
-ipython==7.18.1
-ipython-genutils==0.2.0
 isort==5.5.0
 itsdangerous==1.1.0
 jedi==0.17.2
 Jinja2==2.11.2
 joblib==0.16.0
-jupyter-client==6.1.7
-jupyter-core==4.6.3
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1

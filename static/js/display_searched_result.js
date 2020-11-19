@@ -18,7 +18,7 @@ var display_result = function(){
               
             </div>
 
-            <a href="${url}" class="btn btn-info d-flex" target="_blank">Visit Url</a>
+            <a href="${url}" class="btn btn-info d-flex justify-content-center" target="_blank">Visit Url</a>
         `;
 
         words.forEach(function(word){
@@ -51,21 +51,7 @@ var display_result = function(){
 
         });
         return;
-        // seed_url = data.seed_url;
-        // let ranks = data.ranks;
-        // if(ranks.length ==0){
-        //     return;
-        // }
-        
-        // for(var i =0;i< ranks.length; i++){
-        //     console.log(ranks[i]);
-        //     let rank = i+1;
-        //     let page_name = ranks[i].page_name;
-        //     let to = ranks[i].to;
-        //     let from = ranks[i].from;
-        //     let row = create_row(rank, page_name, to, from);
-        //     table.appendChild(row);
-        // }
+
     };
     var on_load = function(){
 

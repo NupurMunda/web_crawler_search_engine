@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"C:\Users\Admin\Documents\projects\Deep Ocean\env"
+$VIRTUAL_ENV = r"C:\Users\Admin\Documents\GitHub\DeepOcean\env"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

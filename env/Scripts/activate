@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV='C:\Users\Admin\Documents\projects\Deep Ocean\env'
+VIRTUAL_ENV='C:\Users\Admin\Documents\GitHub\DeepOcean\env'
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

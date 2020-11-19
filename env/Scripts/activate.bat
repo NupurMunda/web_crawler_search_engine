@@ -1,6 +1,6 @@
 @echo off
 
-set "VIRTUAL_ENV=C:\Users\Admin\Documents\projects\Deep Ocean\env"
+set "VIRTUAL_ENV=C:\Users\Admin\Documents\GitHub\DeepOcean\env"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
