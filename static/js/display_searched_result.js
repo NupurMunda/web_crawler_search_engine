@@ -40,7 +40,8 @@ var display_result = function(){
         let page_list = data.page_list.res;
         //remove res later
         let title = "Query : " + data.query;
-        let heading = create_element("h4", title, "");
+        let heading = create_element("h4", title, "sticky-top bg-info py-3 px-3 text-light");
+
         result_div.appendChild(heading);
         page_list.forEach(function(page_info){
             let name = page_info.page_name;

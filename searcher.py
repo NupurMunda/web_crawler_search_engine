@@ -1,6 +1,5 @@
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
-from nltk.stem import PorterStemmer 
 from autocorrect import spell 
 from flask import jsonify
 import string
